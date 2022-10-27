@@ -16,6 +16,23 @@ sleep (2)
 print ("A= ja is goed man  ")
 print ("B= nee man ik moet naar huis ")
 buiten = input ("a of b =..")
+if buiten == ("b"):
+       print (" jammer man ik zie je morgen ")
+       sleep (2)
+       print ("je gaat naar huis en je gaat je moeder helpen met eten maken")
+       print  (" je moeder vraagt hoe het op school gaat")
+       sleep (2)
+       print ("je zegt dat alles goed was ")
+       print ("ashraf gaat weer naar school en ziet ze vrienden")
+       sleep (1) 
+       print ("hij kiest ervoor om zich zelf tegaan verbeteren en niet meer met ze omgaan")
+       sleep (2)
+       print ("hij heeft nieuwe vrienden en doet zijn best op school")
+       sleep (1)
+       print ("iedereen is trots")
+
+    
+
 if buiten == ("a"):
     print ("ik zie je om 6 uur centrum")
     sleep (2)
@@ -131,31 +148,22 @@ if bel == ("b"):
     vrienden = input ("a= met vrienden blijven b= naar huis")
 
 if vrienden == ("a"):
-    print ("ashraf bleef  met de slechte vrienden ")
+    print ("ashraf bleef  met de slechte vrienden. ")
     print (" 5 maanden later")
     sleep (2)
     print ("ashraf is het slechte pad op gegaan hij heeft een strafblad en geen baan")
 
 if vrienden == ("b"):
-
-
-    
-    
-
-    if buiten == ("b"):
-       print (" jammer man ik zie je morgen ")
-       sleep (2)
-       print ("je gaat naar huis en je gaat je moeder helpen met eten maken")
-       print  (" je moeder vraagt hoe het op school gaat")
-       sleep (2)
-       print ("je zegt dat alles goed was ")
-       print ("ashraf gaat weer naar school en ziet ze vrienden")
-       sleep (1) 
-       print ("hij kiest ervoor om zich zelf tegaan verbeteren en niet meer met ze omgaan")
-       sleep (2)
-       print ("hij heeft nieuwe vrienden en doet zijn best op school")
-       sleep (1)
-       print ("iedereen is trots")
-
-    
-    
+    print (" jammer man ik zie je morgen ")
+    sleep (2)
+    print ("je gaat naar huis en je gaat je moeder helpen met eten maken")
+    print  (" je moeder vraagt hoe het op school gaat")
+    sleep (2)
+    print ("je zegt dat alles goed was ")
+    print ("ashraf gaat weer naar school en ziet ze vrienden")
+    sleep (1) 
+    print ("hij kiest ervoor om zich zelf tegaan verbeteren en niet meer met ze omgaan")
+    sleep (2)
+    print ("hij heeft nieuwe vrienden en doet zijn best op school")
+    sleep (1)
+    print ("iedereen is trots")
